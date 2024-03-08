@@ -1,4 +1,3 @@
-<div style="background-color:white">
 <h1 align="center">Hi 👋, I'm Venu</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
@@ -23,5 +22,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=venu-1823&show_icons=true&locale=en&layout=compact" alt="venu-1823" /></p>
 
-
-</div>
